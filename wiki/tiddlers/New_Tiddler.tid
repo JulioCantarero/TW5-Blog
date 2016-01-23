@@ -1,0 +1,10 @@
+account-name: Activo:Activo Circulante:ING Direct:Cuenta Naranja
+account-type: Bank
+amount-format-regex: ([-]?\d+(?:\.\d{3})*\,\d+)
+created: 20151025123641984
+date-format-regex: (\d{1,2})[-\s\/](\d{1,2})[-\s\/](\d{2,4})
+modified: 20160123170353315
+tags: Account
+title: New Tiddler
+type: text/vnd.tiddlywiki
+
